@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Next Level Gaming</string>
+
+    <!-- Header -->
+    <string name="brand_next_level">NEXT LEVEL</string>
+    <string name="brand_gaming">GAMING</string>
+    <string name="desc_logo">Next Level Gaming Logo</string>
+    <string name="desc_menu">Menu</string>
+    <string name="desc_next">Next</string>
+    <string name="desc_venue">Gaming Venue</string>
+    <string name="desc_gamers">Gamers</string>
+
+    <!-- Home Screen -->
+    <string name="home_subtitle">JOHANNESBURG • EST. 2023</string>
+    <string name="home_hero_title">Level up your &lt;font color=\"#A855F7\"&gt;next event.&lt;/font&gt;</string>
+    <string name="home_hero_desc">Experience Johannesburg\'s premiere high-performance gaming venue. We host esports tournaments, epic gaming birthday parties, high-energy school outings, and competitive corporate team-building events.</string>
+    <string name="btn_view_packages">View Packages &amp; Experiences</string>
+    <string name="section_explore">Explore</string>
+
+    <string name="option_gaming_packages">Gaming Packages</string>
+    <string name="option_gaming_packages_sub">Tap to view details and pricing.</string>
+
+    <string name="option_individual_exp">Individual Experiences</string>
+    <string name="option_individual_exp_sub">Tap to view details and pricing.</string>
+
+    <string name="option_book_consultant">Book a Consultant</string>
+    <string name="option_book_consultant_sub">Tap to view details and pricing.</string>
+
+    <!-- About Us Screen -->
+    <string name="about_subtitle">ABOUT US</string>
+    <string name="about_title">Built by gamers, &lt;font color=\"#A855F7\"&gt;for gamers.&lt;/font&gt;</string>
+
+    <string name="title_history">History</string>
+    <string name="desc_history">Founded 2023 by Jason Naidoo after seeing gamers lacked access to high-performance equipment and organised events.</string>
+
+    <string name="title_vision">Vision</string>
+    <string name="desc_vision">To be Johannesburg\'s home for casual play and competitive esports.</string>
+
+    <string name="title_mission">Mission</string>
+    <string name="desc_mission">Deliver premium gaming technology and events for players of all ages.</string>
+
+    <string name="title_goals">Goals</string>
+    <string name="desc_goals">Grow esports culture through training, tournaments and community events.</string>
+
+    <!-- Summary Screen -->
+    <string name="summary_subtitle2">SUMMARY — PAGE 1 OF 2</string>
+    <string name="summary_title">Gaming &lt;font color=\"#A855F7\"&gt;Packages&lt;/font&gt;</string>
+    <string name="view_details">View Details &#8594;</string>
+
+    <string name="pkg_1_title">Ultimate Gamer Pass</string>
+    <string name="pkg_1_desc">Our ultimate, unrestricted high-spec gaming access.</string>
+    <string name="pkg_price_1500">R1500</string>
+
+    <string name="pkg_2_title">VIP Gaming Experience</string>
+    <string name="pkg_2_desc">Private lounge, lounge seating, free drinks.</string>
+
+    <string name="pkg_3_title">Esports Training Package</string>
+    <string name="pkg_3_desc">Guided session with coach, strategy breakdown.</string>
+
+    <string name="pkg_4_title">Birthday Party Package</string>
+    <string name="pkg_4_desc">Reserved party zone, snacks, tournament setup.</string>
+
+    <string name="section_individual_experiences">Individual Experiences</string>
+    <string name="exp_price_750">R750</string>
+
+    <string name="exp_1_title">Virtual Reality Experience</string>
+    <string name="exp_2_title">Racing Simulator Challenge</string>
+    <string name="exp_3_title">Escape Room Challenge</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="nav_summary">Summary</string>
+    <string name="nav_fees">Fees</string>
+    <string name="nav_contact">Contact</string>
+</resources>

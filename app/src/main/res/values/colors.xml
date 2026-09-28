@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme & App Colors -->
+    <color name="background_dark">#0B0B12</color>
+    <color name="card_bg">#181628</color>
+    <color name="card_border">#2B2645</color>
+    <color name="card_hero_border">#6C35DE</color>
+    <color name="purple_primary">#8B3CFF</color>
+    <color name="purple_accent">#A855F7</color>
+    <color name="cyan_accent">#00D8F6</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#9CA3AF</color>
+    <color name="text_subtext">#80809A</color>
+    <color name="hamburger_bg">#1A172B</color>
+    <color name="nav_bg">#09090F</color>
+    <color name="nav_border">#1D1B2E</color>
+</resources>
